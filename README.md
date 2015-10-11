@@ -1,3 +1,4 @@
 # Ctwo-of-pluses
-C++
-lesson1 classes
+C++<br>
+lesson1 classes<br>
+lesson 2 array
