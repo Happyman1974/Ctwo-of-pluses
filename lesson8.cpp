@@ -1,4 +1,4 @@
-//opengl
+//lesson8 opengl
 //compile via - g++ lesson8.cpp -lglut -o lesson8 -lGL -lGLU
 
 #include <GL/glut.h>
