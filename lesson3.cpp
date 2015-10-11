@@ -1,4 +1,4 @@
-// 2x array
+// lesson3 2x array
 #include <iostream>
 using namespace std;
 
