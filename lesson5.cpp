@@ -1,4 +1,4 @@
-// read from / write in file
+//lesson5 read from / write in file
 #include <iostream>
 #include <fstream>
 #include <string>
