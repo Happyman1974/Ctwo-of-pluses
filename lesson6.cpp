@@ -1,4 +1,4 @@
-//пузырьковая сортировка
+//lesson 6 bubble sorting
 #include <iostream>
 #include <fstream>
 using namespace std;
