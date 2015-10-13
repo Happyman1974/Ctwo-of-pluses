@@ -9,3 +9,4 @@ lesson6 bubble sorting<br>
 lesson7 phonebook<br>
 lesson8 opengl<br>
 lesson9 Math operation's results<br>
+lesson10 Switch operator<br>
