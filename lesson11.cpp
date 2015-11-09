@@ -1,7 +1,12 @@
+#include <iostream>
+
+using std::cout;
+using std::cin;
+
 int main()
 {
   int i(1); //itteration
-  cha quit;
+  char quit;
   
   do
   {
