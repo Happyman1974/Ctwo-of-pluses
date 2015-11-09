@@ -8,7 +8,7 @@ int main()
     cout << "Continue(y/n) ? ";
   } while(cin >> quit && quit == 'y');
   //one more cicle
-  for(int j=0; j < 10; j++)
+  for(int j=0; j <= 10; j += 2) //j = j + 2 -> j +=2
   {
     cout << j << endl;
   }
