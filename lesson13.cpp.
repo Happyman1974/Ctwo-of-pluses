@@ -1,0 +1,23 @@
+/*///////////////////////////////
+Author: Sergey              /////
+Name: Input checking        /////
+*////////////////////////////////
+
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+insigned int a;
+
+cout << "Input a number: ";
+
+if(!(cin >> a))
+  {
+  cout << "Wrong input!";
+  rerurn -1;
+  }
+  
+  cout << you number is : " << a << andl;
+}
